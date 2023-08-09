@@ -1,1 +1,1 @@
-
+# run the java program and compile the file wordCounter.java
